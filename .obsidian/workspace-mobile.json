@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2abd8472827cee",
+        "id": "02acc550fb102268",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7d3558f0c70f87",
+            "id": "429fd93603fc6188",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templaterScripts/setStatus.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Create Project",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -67,6 +71,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "57113edc873dcd4d",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -81,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "templaterScripts/setStatus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "templaterScripts/setStatus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,6 +121,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "templaterScripts/setStatus.md"
+          }
+        }
+      },
+      {
+        "id": "90bed6d331312cf1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
           "state": {}
         }
       }
@@ -119,48 +143,49 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4b7d3558f0c70f87",
+  "active": "429fd93603fc6188",
   "lastOpenFiles": [
-    "Vault Troubleshooting.md",
-    "Obsidian Tracker Plugin.md",
-    "📁 My Archives.md",
-    "Embedding notes.md",
-    "Managing appearance and theme.md",
-    "Automatically move notes to a folder.md",
-    "DataviewJS.md",
-    "Managing daily and periodic notes.md",
-    "Vault Overview.md",
+    "2. Areas/2. Areas.md",
+    "1. Projects/Task 1 @📅 2022-07-09.md",
+    "1. Projects/1. Projects.md",
+    "1. Projects/My AreasMy Areas.md",
+    "Creating and tracking your own habits and statistics.md",
+    "♻️ My Habits.md",
     "🏠 My Home.md",
-    "see people.md",
-    "Types of notes.md",
-    "💡 Test brainstorm.md",
-    "Todoist Sync Plugin.md",
-    "🌞 My Greenhouse.md",
-    "Tiago Forte.md",
-    "My Hotkeys.md",
-    "quarterlyNotes/2022-Q3.md",
-    "quarterlyNotes",
-    "Kanban Board.md",
-    "Make.md Plugin.md",
-    "My Addons.md",
-    "Evergreen Notes.md",
-    "Retrieving information from your notes.md",
+    "3. Resources/📝 My Resources.md",
+    "Project Management MOC.md",
+    "Project Workflow Checklists.md",
+    "1. Projects/🚧 My Projects.md",
+    "QuickAdd Plugin.md",
+    "1. Projects/🚧 Create new Obsidian video/🚧 Create new Obsidian video.md",
+    "Vault Troubleshooting.md",
     "weeklyNotes/2022-W34.md",
-    "weeklyNotes/2023-W01.md",
-    "weeklyNotes/2022-W28.md",
-    "weeklyNotes",
+    "_start_here.md",
     "Untitled.canvas",
+    "1. Projects/🚧 Vault Onboarding/🚧 Vault Onboarding.md",
+    "📚 How To Take Smart Notes Application.md",
+    "Untitled 1.canvas",
+    "💡 Test brainstorm.md",
+    "dailyNotes/2023-01-20.md",
+    "Example Note.md",
+    "Evergreen Notes.md",
+    "1. Projects/🚧 Vault Onboarding/📌 Learn PKM and note-taking methodology.md",
+    "How to use this vault.md",
+    "Make.md Plugin.md",
+    "Obsidian Community Plugins.md",
+    "Context/spacesLastSync.log",
+    "quarterlyNotes",
+    "weeklyNotes",
     "1. Projects/🚧 Vault Onboarding",
     "1. Projects/startingProject",
     "1. Projects/My Areas",
     "1. Projects/test",
     "1. Projects/🚧 Obsidian Starter Vault Creation",
     "1. Projects/🚧 Create new Obsidian video",
-    "1. Projects/misc",
-    "1. Projects"
+    "1. Projects/misc"
   ]
 }
